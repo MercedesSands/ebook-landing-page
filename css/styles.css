@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.subscribe-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.info {
+    max-width: 600px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: auto; 
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.btn-right {
+    text-align: right;
+    padding-bottom: 30px;
+}
